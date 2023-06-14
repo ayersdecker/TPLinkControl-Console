@@ -1,6 +1,8 @@
 # TPLinkControl-Console
 Accessing TP-Link Cloud services through .NET Console
 
+*This documentation is unofficial ⚠️*
+
 ## Step 1 - Getting Logged In
 
 Login URL: https://wap.tplinkcloud.com
