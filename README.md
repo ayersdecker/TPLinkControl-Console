@@ -63,5 +63,6 @@ Luckily for us, changing the color of the bulb is mostly the same as the step ab
 
 Links: 
 UUID Generator: https://www.uuidgenerator.net/
+
 Additional Resources: 
 https://github.com/konsumer/tplink-lightbulb
