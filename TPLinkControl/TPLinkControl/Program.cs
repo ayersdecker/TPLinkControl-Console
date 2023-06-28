@@ -93,8 +93,8 @@ void Menu(string nn)
     Console.WriteLine("2. Turn On Light");
     Console.WriteLine("3. Turn Off light");
     Console.WriteLine("4. Turn On and Red");
-    Console.WriteLine("5. Turn On and Blue");
-    Console.WriteLine("6. Turn On and Green");
+    Console.WriteLine("5. Turn On and Green");
+    Console.WriteLine("6. Turn On and Blue");
     Console.WriteLine("9. Exit");
     Console.ForegroundColor = ConsoleColor.White;
     Console.Write("\nSelection: ");
